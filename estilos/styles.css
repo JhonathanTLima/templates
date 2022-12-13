@@ -1,0 +1,26 @@
+/*Variáveis*/
+:root {
+    --cor-de-fundo: #EBECEE;
+;
+}
+
+/*Topo Celular*/
+body {
+    background-color: var(--cor-de-fundo);
+}
+
+/*Topo Tablet*/
+
+/*Topo Desktop*/
+
+/*Conteúdo Celular*/
+
+/*Conteúdo Tablet*/
+
+/*Conteúdo Desktop*/
+
+/*Rodapé Celular*/
+
+/*Rodapé Tablet*/
+
+/*Rodapé Desktop*/
