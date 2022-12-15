@@ -1,3 +1,7 @@
+/*Folhas de estilos Topo e Rodapé*/
+@import url(header.css);
+@import url(footer.css);
+
 /*Variáveis*/
 :root {
     
